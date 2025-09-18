@@ -292,7 +292,7 @@ export default function Portfolio() {
                 {/* Main image container */}
                 <div className="relative bg-background rounded-3xl p-2 shadow-2xl">
                   <img
-                    src="/professional-headshot-of-young-african-computer-sc.jpg"
+                    src="/l1.jpg"
                     alt="Godfred Ackah - Computer Science Student"
                     className="w-full h-auto rounded-2xl object-cover aspect-[4/5]"
                   />
