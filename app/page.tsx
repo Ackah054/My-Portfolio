@@ -71,9 +71,9 @@ export default function Portfolio() {
         "Advanced video analysis system that detects violent activities in real-time and sends instant alerts to security personnel.",
       tech: ["Python", "TensorFlow", "OpenCV", "Render"],
       image: "/ai-crime-detection-system-with-video-surveillance.jpg",
-      github: "#",
-      demo: "#",
-      linkedin: "#",
+      github: "https://github.com/Ackah054",
+      demo: "https://voilence.onrender.com/",
+      linkedin: "https://www.linkedin.com/in/ackah-godfred-696271235",
       featured: true,
     },
     {
@@ -81,10 +81,10 @@ export default function Portfolio() {
       description:
         "AI-powered medical diagnostic system that uses machine learning to detect stroke symptoms and tuberculosis from medical imaging and patient data.",
       tech: ["Python", "TensorFlow", "Medical Imaging", "Flask", "OpenCV"],
-      image: "/stroke.jpg",
-      github: "#",
-      demo: "#",
-      linkedin: "#",
+      image: "/stroke-tb-detection-medical-ai-system.jpg",
+      github: "https://github.com/Ackah054",
+      demo: "https://global-18qw.onrender.com/",
+      linkedin: "https://www.linkedin.com/in/ackah-godfred-696271235",
       featured: true,
     },
     {
@@ -93,9 +93,9 @@ export default function Portfolio() {
         "Full-featured task management application with real-time collaboration and progress tracking capabilities.",
       tech: ["HTML", "CSS", "JavaScript", "Local Storage"],
       image: "/modern-task-management-dashboard-interface.jpg",
-      github: "#",
-      demo: "#",
-      linkedin: "#",
+      github: "https://github.com/Ackah054",
+      demo: "https://github.com/Ackah054",
+      linkedin: "https://www.linkedin.com/in/ackah-godfred-696271235",
       featured: false,
     },
     {
@@ -104,9 +104,9 @@ export default function Portfolio() {
         "Intelligent job matching platform that connects job seekers with employers using AI-powered recommendations.",
       tech: ["React Native", "Node.js", "Express", "PostgreSQL"],
       image: "/job-matching-platform-mobile-app.jpg",
-      github: "#",
-      demo: "#",
-      linkedin: "#",
+      github: "https://github.com/Ackah054",
+      demo: "https://github.com/Ackah054",
+      linkedin: "https://www.linkedin.com/in/ackah-godfred-696271235",
       featured: false,
     },
     {
@@ -114,9 +114,9 @@ export default function Portfolio() {
       description: "Real-time sign language translation system using computer vision and Arduino hardware integration.",
       tech: ["Python", "OpenCV", "Arduino", "TensorFlow"],
       image: "/sign-language-translator-with-camera-and-arduino.jpg",
-      github: "#",
-      demo: "#",
-      linkedin: "#",
+      github: "https://github.com/Ackah054",
+      demo: "https://github.com/Ackah054",
+      linkedin: "https://www.linkedin.com/in/ackah-godfred-696271235",
       featured: false,
     },
   ]
@@ -400,9 +400,9 @@ export default function Portfolio() {
                   <div className="bg-primary/10 w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6">
                     <Smartphone className="h-8 w-8 text-primary" />
                   </div>
-                  <h3 className="font-bold text-lg mb-3">Mobile Dev</h3>
+                  <h3 className="font-bold text-lg mb-3">Data Scientist</h3>
                   <p className="text-sm text-muted-foreground leading-relaxed">
-                    React Native and cross-platform mobile application development
+                    Data analysis, machine learning models, and statistical insights for decision making
                   </p>
                 </CardContent>
               </Card>
