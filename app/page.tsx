@@ -81,7 +81,7 @@ export default function Portfolio() {
       description:
         "AI-powered medical diagnostic system that uses machine learning to detect stroke symptoms and tuberculosis from medical imaging and patient data.",
       tech: ["Python", "TensorFlow", "Medical Imaging", "Flask", "OpenCV"],
-      image: "/stroke-tb-detection-medical-ai-system.jpg",
+      image: "/stroke.jpg",
       github: "https://github.com/Ackah054",
       demo: "https://global-18qw.onrender.com/",
       linkedin: "https://www.linkedin.com/in/ackah-godfred-696271235",
