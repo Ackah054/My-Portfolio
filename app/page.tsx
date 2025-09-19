@@ -328,17 +328,28 @@ export default function Portfolio() {
             <div className="space-y-8">
               <div className="space-y-6">
                 <p className="text-lg leading-relaxed text-muted-foreground">
-                  As a final-year Computer Science student, I'm deeply passionate about artificial intelligence and its
-                  potential to transform how we approach security and safety challenges in Ghana and beyond.
+                  Hi, I'm <span className="font-semibold">Godfred Ackah</span> a passionate Data Scientist and
+                  final-year Computer Science student at the University of Mines and Technology, Ghana.
                 </p>
                 <p className="text-lg leading-relaxed text-muted-foreground">
-                  My journey in technology has been driven by a desire to create meaningful solutions that can make a
-                  real difference in people's lives. From crime detection systems to medical diagnostics, I focus on
-                  building applications that address genuine societal needs.
+                  I specialize in{" "}
+                  <span className="font-semibold">web development, AI, and problem-solving projects</span>
+                  that create real impact. From healthcare management systems to fraud detection and crime monitoring
+                  platforms, my work focuses on solving challenges that matter in Ghana and beyond.
                 </p>
                 <p className="text-lg leading-relaxed text-muted-foreground">
-                  I believe in the power of technology to create positive change, and I'm committed to using my skills
-                  to build a safer, more secure future for my community.
+                  With skills in <span className="font-semibold">React, Node.js, TypeScript, and AI/ML</span>, I enjoy
+                  transforming ideas into functional, user-friendly applications. Beyond coding, I'm also passionate
+                  about{" "}
+                  <span className="font-semibold">
+                    public speaking, teamwork, and using technology to drive innovation
+                  </span>
+                  .
+                </p>
+                <p className="text-lg leading-relaxed text-muted-foreground">
+                  I'm currently open to opportunities in{" "}
+                  <span className="font-semibold">software engineering, AI, and tech-driven innovation</span> where I
+                  can contribute, learn, and grow while making a positive difference.
                 </p>
               </div>
 
