@@ -104,7 +104,7 @@ export default function Portfolio() {
         "Intelligent job matching platform that connects job seekers with employers using AI-powered recommendations.",
       tech: ["React Native", "Node.js", "Express", "PostgreSQL"],
       image: "/job-matching-platform-mobile-app.jpg",
-      github: "https://github.com/Ackah054",
+      github: "https://github.com/Ackah054/job-matching",
       demo: "https://github.com/Ackah054",
       linkedin: "https://www.linkedin.com/in/ackah-godfred-696271235",
       featured: false,
