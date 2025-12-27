@@ -127,7 +127,7 @@ export default function Portfolio() {
     { category: "Tools & Platforms", items: ["Git", "Render", "Expo", "MongoDB", "PostgreSQL"] },
     {
       category: "Domains",
-      items: ["AI/ML", "Cybersecurity", "Web Development", "Mobile Development", "Computer Vision"],
+      items: ["AI/ML", "Data Scientist", "Web Development", "Mobile Development", "Computer Vision"],
     },
   ]
 
@@ -217,7 +217,7 @@ export default function Portfolio() {
                   <div className="w-1 h-1 bg-muted-foreground rounded-full"></div>
                   <div className="flex items-center gap-2">
                     <Calendar size={16} />
-                    <span>Final Year Student</span>
+                    <span>Computer Science Engineer</span>
                   </div>
                 </div>
 
@@ -229,7 +229,7 @@ export default function Portfolio() {
                 </h1>
 
                 <p className="text-xl md:text-2xl text-muted-foreground text-pretty leading-relaxed">
-                  A passionate Computer Science student building{" "}
+                  A passionate Computer Science graduate building{" "}
                   <span className="text-primary font-semibold">AI-powered solutions</span> for security and safety in
                   Ghana.
                 </p>
@@ -328,12 +328,13 @@ export default function Portfolio() {
             <div className="space-y-8">
               <div className="space-y-6">
                 <p className="text-lg leading-relaxed text-muted-foreground">
-                  Hi, I'm <span className="font-semibold">Godfred Ackah</span> a passionate Data Scientist and
-                  final-year Computer Science student at the University of Mines and Technology, Ghana.
+                  Hi, I'm <span className="font-semibold">Godfred Ackah</span> a passionate Full Stack Developer and a 
+                  Data Scientist with a Degree in Computer Science and Engineering at the University of
+                   Mines and Technology, Ghana.
                 </p>
                 <p className="text-lg leading-relaxed text-muted-foreground">
                   I specialize in{" "}
-                  <span className="font-semibold">web development, AI, and problem-solving projects</span>
+                  <span className="font-semibold">Full Stack developments, AI, and problem-solving projects</span>
                   that create real impact. From healthcare management systems to fraud detection and crime monitoring
                   platforms, my work focuses on solving challenges that matter in Ghana and beyond.
                 </p>
